@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-The AI Ride Demand Prediction System is a Machine Learning project that predicts the expected ride demand at different pickup locations and recommends the most suitable vehicle type.
+The Ride Demand Prediction model is a Machine Learning project that predicts the expected ride demand at different pickup locations and recommends the most suitable vehicle type.
 
 This project was built using a real-world ride dataset containing **253,000+ records**, making it a challenging and practical machine learning application.
 
